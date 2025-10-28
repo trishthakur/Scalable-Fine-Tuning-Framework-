@@ -35,6 +35,9 @@ This project provides a user-friendly interface for training and evaluating Mobi
     │  (Metrics)  │    │ (Predictions)│
     └─────────────┘    └──────────────┘
 ```
+## Demo video
+
+https://github.com/user-attachments/assets/52f651f8-3fcd-4f9b-812f-4625ffe39ba4
 
 ## Prerequisites
 
@@ -196,14 +199,6 @@ dataset.zip
 - **For faster training**: Increase batch size (if memory allows)
 - **For better accuracy**: Increase epochs and use more training data
 - **For resource constraints**: Use MobileNet (lighter than MobileNetV2)
-
-## Differences from GCP Version
-
-- Uses SQLite instead of Google Cloud SQL
-- Local file storage instead of Google Cloud Storage
-- No authentication requirements
-- Simplified deployment process
-- Single-user setup (no concurrent user handling)
 
 ## Limitations
 
