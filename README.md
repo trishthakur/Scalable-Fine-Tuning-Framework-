@@ -1,6 +1,6 @@
 # MobileNet Fine-Tuning System - Local Deployment
 
-End-to-End System for Fine-tuning Machine Learning Models with MobileNet
+End-to-End System for Fine-tuning Machine/Deep Learning Models with MobileNet
 
 ## Overview
 
